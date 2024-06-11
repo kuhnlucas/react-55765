@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "nombre": "BIELETAS",
+        "precio": 7000,
+        "imagen": "/src/assets/img/Suspension1.jpg",
+        "descripcion": "bieletas de suspension",
+        "categoria": {
+            "id": "suspension",
+            "nombre": "SUSPENSION"
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "AMORTIGUADORES",
+        "precio": 53000,
+        "imagen": "/src/assets/img/Suspension2.jpg",
+        "descripcion": "Amortiguador Corven para pick up segmento chico",
+        "categoria": {
+            "id": "suspension",
+            "nombre": "suspension"
+        }
+    },
+    {
+        "id": 3,
+        "nombre": "KIT BUJES",
+        "precio": 12000,
+        "imagen": "/src/assets/img/Suspension3.jpg",
+        "descripcion": "kit bujes de suspension completo",
+        "categoria": {
+            "id": "suspension",
+            "nombre": "suspension"
+        }
+    },
+    {
+        "id": 4,
+        "nombre": "ACEITE QUARTZ",
+        "precio": 38000,
+        "imagen": "/src/assets/img/Service1.jpg",
+        "descripcion": "Aceite 5W30 100% sintetico",
+        "categoria": {
+            "id": "service",
+            "nombre": "service"
+        }
+    },
+    {
+        "id": 5,
+        "nombre": "FILTRO DE  CABINA",
+        "precio": 7500,
+        "imagen": "/src/assets/img/Service2.jpg",
+        "descripcion": "filtro de Aire",
+        "categoria": {
+            "id": "service",
+            "nombre": "service"
+        }
+    },
+    {
+        "id": 6,
+        "nombre": "KIT FILTRO DE AIRE Y COMBUSTIBLE",
+        "precio": 27000,
+        "imagen": "/src/assets/img/Service3.jpg",
+        "descripcion": "filtro de combustilbe y filtro de aceiteService",
+        "categoria": {
+            "id": "service",
+            "nombre": "service"
+        }
+    },
+    {
+        "id": 7,
+        "nombre": "BUJIAS",
+        "precio": 18000,
+        "imagen": "/src/assets/img/Ignicion1.jpg",
+        "descripcion": "Bujias de alto rendimiento",
+        "categoria": {
+            "id": "ignicion",
+            "nombre": "ignicion"
+        }
+    },
+    {
+        "id": 8,
+        "nombre": "BOBINAS RED",
+        "precio": 147000,
+        "imagen": "/src/assets/img/Ignicion2.jpg",
+        "descripcion": "Bobinas Red de competicion",
+        "categoria": {
+            "id": "ignicion",
+            "nombre": "ignicion"
+        }
+    },
+    {
+        "id": 9,
+        "nombre": "CABLE BUJIA",
+        "precio": 24000,
+        "imagen": "/src/assets/img/Ignicion3.jpg",
+        "descripcion": "Cable de bujia de alta eficiencia",
+        "categoria": {
+            "id": "ignicion",
+            "nombre": "ignicion"
+        }
+    }
+
+]

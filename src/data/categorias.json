@@ -1,0 +1,14 @@
+[
+    {
+        "id": "suspension",
+        "nombre": "SUSPENSION"
+    },
+    {
+        "id": "service",
+        "nombre": "SERVICE"
+    },
+    {
+        "id": "ignicion",
+        "nombre": "IGNICION"
+    }
+]
